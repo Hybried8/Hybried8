@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nice to meet you :). Welcome to my page. I hope you like it!<br><br>And, at the end of the day, <br>The day, <br>in fact,<br>ends.
+Blobbyyyy ( you'll hear that name veryyy soon) Anyway, thank you so much for visiting my page.
 
 
 ## 🌐 Socials:
