@@ -1,6 +1,5 @@
 # 💫 About Me:
-Blobbyyyy ( you'll hear that name veryyy soon) Anyway, thank you so much for visiting my page.
-
+Heya
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/JoelAjakaye) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/JoelAjakaye](https://www.linkedin.com/in/joel-ajakaye-75a529213))  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Hybried8) 
