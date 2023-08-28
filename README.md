@@ -1,5 +1,9 @@
 # 💫 About Me:
-Heya
+Hey, I'm Joel – a code enthusiast 🚀! Currently diving deep into the world of Software Engineering. From crafting efficient algorithms to building user-friendly interfaces, I thrive on the journey of turning ideas into reality.
+
+With a knack for problem-solving, I've tackled projects that range from web apps to data pipelines. But I'm not all 0s and 1s. Off the screen, you'll find me immersed in the notes of a piano and embracing the rush of sports like tennis and Thai boxing.
+
+I believe in the power of collaboration and continuous learning. Let's connect, code, and create something awesome together. Welcome to my digital space, where tech meets passion! 🎹🎾👨‍💻
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/JoelAjakaye) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/JoelAjakaye](https://www.linkedin.com/in/joel-ajakaye-75a529213))  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Hybried8) 
