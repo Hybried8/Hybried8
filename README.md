@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Joel – a code enthusiast 🚀! Currently diving deep into the world of Software Engineering. From crafting efficient algorithms to building user-friendly interfaces, I thrive on the journey of turning ideas into reality.
+Hi! I'm Joel! Currently diving deep into the world of Software Engineering. From crafting efficient algorithms to building user-friendly interfaces, I thrive on the journey of turning ideas into reality.
 <!--
 With a knack for problem-solving, I've tackled projects that range from web apps to data pipelines. But I'm not all 0s and 1s. Off the screen, you'll find me immersed in the notes of a piano and embracing the rush of sports like tennis and Thai boxing.
 
